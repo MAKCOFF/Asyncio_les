@@ -16,7 +16,7 @@ siting_RTU = {
     "port": 'COM4',
     "baudrate": 9600,
     "timeout": 0.1,
-}
+              }
 
 pymc = pyRtu(siting_RTU)
 
